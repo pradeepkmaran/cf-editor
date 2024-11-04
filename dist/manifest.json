@@ -1,0 +1,12 @@
+{
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "name": "CF-Editor",
+    "description": "This is a Chrome extension built with React and TypeScript",
+    "side_panel": {
+        "default_path": "js/index.html"
+    },
+    "permissions": [
+        "sidePanel"
+    ]
+}
